@@ -24,7 +24,7 @@ I'm currently preparing for M.Sc. research in Deep Learning under academic super
 Built a layered architecture system in Java with clear separation of logic, persistence, and CLI interface.  
 Led team integration and architectural modeling.  
 **Recognized as the top project in the course**.  
-🔗 [View Repository](https://github.com/Lidor-Mashiach/supplier-management)
+🔗 [View Repository](https://github.com/Lidor-Mashiach/supplier-management-module)
 
 ---
 
@@ -32,20 +32,20 @@ Led team integration and architectural modeling.
 Simulated download behavior using TCP/UDP via socket programming in Python.  
 Measured real-world protocol differences.  
 **Achieved first place in course evaluation**.  
-🔗 [View Repository](https://github.com/Lidor-Mashiach/network-throughput)
+🔗 [View Repository](https://github.com/Lidor-Mashiach/network-throughput-simulator)
 
 ---
 
 ### 🔹 Heuristic Pathfinding (A*)  
 Implemented informed search with A* algorithm and custom heuristics for pathfinding in a simulated environment.  
-🔗 [View Repository](https://github.com/Lidor-Mashiach/heuristic-pathfinding)
+🔗 [View Repository](https://github.com/Lidor-Mashiach/heuristic-pathfinding-a-star)
 
 ---
 
 ### 🔹 Game AI with Alpha-Beta Pruning  
 Developed a generalized Tic-Tac-Toe AI using minimax with alpha-beta pruning on dynamic boards.  
 Optimized search depth and decision time.  
-🔗 [View Repository](https://github.com/Lidor-Mashiach/alpha-beta-game-ai)
+🔗 [View Repository](https://github.com/Lidor-Mashiach/tic-tac-toe-alpha-beta-pruning)
 
 ---
 
