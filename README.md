@@ -54,7 +54,7 @@ Optimized search depth and decision time.
 > A minimalistic, accessible landing page designed for Avatar Aang's "Golden Age" project.  
 > Focus on pure HTML, CSS, and vanilla JavaScript with clean structure and user-friendly interaction.
 
-🔗 [View the Project Repository]([https://github.com/Lidor-Mashiach/Avatar-Golden-Age-Website](https://github.com/Lidor-Mashiach/avatar-website))
+🔗 [View Repository](https://github.com/Lidor-Mashiach/avatar-website)
 
 ---
 
