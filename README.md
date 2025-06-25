@@ -9,10 +9,10 @@ I'm currently preparing for M.Sc. research in Deep Learning under academic super
 
 ## 🧠 Tech Stack
 
-**Languages:** Python, Java, C, C++  
+**Languages:** Python, Java, C, C++, JavaScript
 **ML/AI Tools:** NumPy, Pandas, scikit-learn, PyTorch  
 **Concepts:** Regression, Classification, DNN, RL, A*, Alpha-Beta Pruning, Bayesian Methods  
-**Databases:** SQL, PostgreSQL, SQLite  
+**Databases:** SQL, PostgreSQL, SQLite, MySQL
 **Tools:** Git, VS Code, JetBrains, UMLetino, Jupyter, Google Colab  
 **Environments:** Linux, Virtual Machines
 
@@ -55,6 +55,16 @@ Optimized search depth and decision time.
 > Focus on pure HTML, CSS, and vanilla JavaScript with clean structure and user-friendly interaction.
 
 🔗 [View Repository](https://github.com/Lidor-Mashiach/avatar-website)
+
+---
+
+### 🍲 Recipes Website – Server Side  
+
+Developed a modular backend in **Node.js with Express** for a recipe-sharing web application.  
+Supports public search via Spoonacular API, user-submitted recipes, and personal “family recipes.”  
+Includes a fully normalized MySQL database, layered architecture (data access, logic, controllers, external API), and full JSON-based communication.   
+
+🔗 [View Repository](https://github.com/Lidor-Mashiach/Recipes-Website)
 
 ---
 
