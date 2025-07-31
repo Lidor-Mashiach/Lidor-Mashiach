@@ -12,7 +12,7 @@ I'm currently preparing for M.Sc. research in Deep Learning under academic super
 **Languages:** Python, Java, C, C++, JavaScript   
 **ML/AI Tools:** NumPy, Pandas, scikit-learn, PyTorch  
 **Concepts:** Regression, Classification, DNN, RL, A*, Alpha-Beta Pruning, Bayesian Methods  
-**Databases:** SQL, PostgreSQL, SQLite, MySQL
+**Databases:** SQL, PostgreSQL, SQLite, MySQL  
 **Tools:** Git, VS Code, JetBrains, UMLetino, Jupyter, Google Colab  
 **Environments:** Linux, Virtual Machines
 
