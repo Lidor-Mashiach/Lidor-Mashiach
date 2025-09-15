@@ -1,9 +1,9 @@
 # 👋 Welcome to my GitHub
 
-I'm Lidor Mashiach — a Software & Information Systems Engineering student at Ben-Gurion University, specializing in Artificial Intelligence and Machine Learning.
+Hi, I'm Lidor Mashiach — part of the Honors Program at Ben-Gurion University, where I’m pursuing a combined B.Sc. and M.Sc. in Software & Information Systems Engineering, specializing in Machine Learning and Big Data.  
 
-My interests revolve around intelligent systems, algorithmic thinking, and building software that’s both elegant and scalable.  
-I'm currently preparing for M.Sc. research in Deep Learning under academic supervision, and love exploring ideas that bridge theory and practice.
+My main focus is on Deep Learning research, but I also enjoy exploring Information Retrieval, Reinforcement Learning, and algorithmic problem-solving.  
+I love building projects that bridge theory and practice — from scalable software systems to hands-on ML experiments.  
 
 ---
 
@@ -75,10 +75,10 @@ I'm currently preparing for M.Sc. research in Deep Learning under academic super
 
 ---
 
-## ✨ Currently Working On
+## ✨ Currently Working On  
 
-Experimenting with model optimization techniques and data preprocessing strategies,  
-while building out real-world ML mini-projects to explore new architectures and training flows.
+Deepening my knowledge in Deep Learning — combining theoretical study with practical experimentation.  
+Exploring model architectures, optimization techniques, and data workflows through hands-on ML mini-projects.
 
 ---
 
